@@ -1,5 +1,10 @@
 ### Hi there 👋 i am Vic
 
+### 🔭 I’m currently in apprenticeship in Biarritz, France!
+### 🌱 I’m currently learning React, Node.js ...
+### 📫 How to reach me: cabezosvic@gmail.com
+### ⚡ Fun fact: love surfing and nature!
+
 <!--
 **viccabezos/viccabezos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
