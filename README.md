@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Vic
 
-### 🔭 I’m currently in apprenticeship in Biarritz, France!
-### 🌱 I’m currently learning React, Node.js ...
+### 👩‍💼 Origin's digital developper
+### 🌱 React, Next.js, Node.js ...
 ### 📫 How to reach me: cabezosvic@gmail.com
 ### ⚡ Fun fact: love surfing and nature!
 
